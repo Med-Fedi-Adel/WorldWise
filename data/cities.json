@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Cape Zebib",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Ehhhhbel",
+      "position": {
+        "lat": 37.2554017,
+        "lng": 10.0522968
+      },
+      "id": 2225811366
+    },
+    {
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-08-04T10:46:13.794Z",
+      "notes": "ya raya7 win msafer trou7 ta3ya wetwali",
+      "position": {
+        "lat": "36.76084515968401",
+        "lng": "3.069145310852992"
+      },
+      "id": 2225811370
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-08-04T10:50:16.910Z",
+      "notes": "Arigatooo !!",
+      "position": {
+        "lat": "35.67281661040601",
+        "lng": "139.77011153621007"
+      },
+      "id": 2225811371
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-04T10:54:17.909Z",
+      "notes": "Je vous parle d'un temps que les moins de 20 ans ne peuvent pas connaître !",
+      "position": {
+        "lat": "48.840277842327",
+        "lng": "2.3550644173697592"
+      },
+      "id": 2225811372
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-04T10:56:08.918Z",
+      "notes": "Sprinterr !!!",
+      "position": {
+        "lat": "51.49931321135451",
+        "lng": "-0.11690910390405708"
+      },
+      "id": 2225811373
+    },
+    {
+      "cityName": "Brasilia",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-08-04T11:01:02.062Z",
+      "notes": "Para supir pay pay , uno dos sino no no Paqueta Papapaapapa",
+      "position": {
+        "lat": "-15.850594483505354",
+        "lng": "-47.863053052519994"
+      },
+      "id": 2225811374
+    },
+    {
+      "cityName": "Casablanca",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-08-04T16:14:04.018Z",
+      "notes": "Atttttayyy bnin w machhouninn",
+      "position": {
+        "lat": "33.58471675363037",
+        "lng": "-7.612114562308249"
+      },
+      "id": 2225811375
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-08-04T16:14:58.234Z",
+      "notes": "Tecom fosione sara portequialo lalalal",
+      "position": {
+        "lat": "41.85682261291698",
+        "lng": "12.486136145216328"
+      },
+      "id": 2225811376
+    },
+    {
+      "cityName": "Table Mountain National Park Marine Protected Area",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2023-08-09T11:59:45.735Z",
+      "notes": "nelson ya ghali",
+      "position": {
+        "lat": "-34.36451237434096",
+        "lng": "18.50237454006471"
+      },
+      "id": 2225811377
+    }
+  ]
+}
